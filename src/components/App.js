@@ -1,6 +1,17 @@
 import React from "react";
 
-const relatives = ["Uncle1", "Uncle2", "Uncle3", "Uncle4", "Uncle5"];
+const relatives = [
+  "Uncle1",
+  "Uncle2",
+  "Uncle3",
+  "Uncle4",
+  "Uncle5",
+  "Uncle1",
+  "Uncle2",
+  "Uncle3",
+  "Uncle4",
+  "Uncle5",
+];
 
 const App = () => {
   return (
